@@ -1,0 +1,24 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "hello world express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitrepo"
+  },
+  "keywords": [
+    "books",
+    "api"
+  ],
+  "author": "Lluis Suros",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "lowdb": "^0.17.1",
+    "shortid": "^2.2.8"
+  }
+}
